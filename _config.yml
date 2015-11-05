@@ -1,10 +1,10 @@
 analytics: {}
 color:
   brandColors: []
-  brandStrength: 0.660961
+  brandStrength: 0
   lightness: 0
   rhythmicContrast: 0.243243
-  saturation: 0.849099
+  saturation: 1
 cta: {}
 layout_spectrum: 0.804054
 name: skynet
